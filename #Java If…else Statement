@@ -1,0 +1,12 @@
+class Conditionals {
+  public static void main(String[] args) {
+    int age = 100;
+    if (age > 10 && age < 15) {
+      System.out.println("Character is most probably Eleven");
+    } else if (age > 40 && age < 50) {
+      System.out.println("Character is chief");
+    } else {
+      System.out.println("Character is Demogorgan");
+    }
+  }
+}
