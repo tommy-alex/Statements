@@ -1,0 +1,9 @@
+class Conditionals {
+   public static void main(String[] args) {
+    int age = 21;
+    if (age > 20) {
+        System.out.println("Character is most probably twnenty one");
+    }
+    System.out.println("Twenty one is an adult");
+   }
+}
